@@ -4,11 +4,17 @@
 } */
 
 /* .box-one */
-.flex-container {
+.flex-container div {
     background-color: rgb(215, 54, 244);
     border: 5px solid rgb(116, 242, 238);
-    height: 100px;
-    display: flex;
+    height: 300px;
+    /* text-align: center; */
+    /* display: flex;
+    justify-content: flex-end;
+    align-items: center; */
+}
+
+/* text-align: center; */
     /* flex-direction: ; */
 
     /* background-color: rgb(215, 54, 244);
@@ -17,10 +23,38 @@
     /* padding: 20px;
     margin: 50px;
     height: 100px;
-    width: 100px; */
+    width: 100px; 
 
+}*/
+
+   
+    /* margin-bottom: 5px; */
+   
+    /* border: 2px solid rgb(116, 242, 118);  */
+   
+
+.lil-box {
+    border: 5px solid rgb(116, 242, 238);
+    height: 100px;
+    width: 150;
 }
+/* .box-one {
+    background-color: rgb(54, 89, 244);
+    
+    /* border: 5px solid rgb(116, 242, 118);  */
+    
+    /* height: 150px;
+    width: 300px; */
+    /* align-items: center; 
+    
+} */
 
+/* .box-two {
+    background-color: rgb(116, 197, 247);
+}
+.box-thr3 {
+    background-color: rgb(240, 62, 234);
+} */
 /* .box-two {
     background-color: rgb(116, 197, 247);
     padding: 20px;
