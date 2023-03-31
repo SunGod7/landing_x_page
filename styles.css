@@ -1,0 +1,38 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+/* .box-one */
+.flex-container {
+    background-color: rgb(215, 54, 244);
+    border: 5px solid rgb(116, 242, 238);
+    height: 100px;
+    display: flex;
+    /* flex-direction: ; */
+
+    /* background-color: rgb(215, 54, 244);
+    border: 0; */
+    /* border: 30px solid rgb(242, 116, 227); */
+    /* padding: 20px;
+    margin: 50px;
+    height: 100px;
+    width: 100px; */
+
+}
+
+/* .box-two {
+    background-color: rgb(116, 197, 247);
+    padding: 20px;
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.box-thr3 {
+    background-color: rgb(177, 54, 244);
+    padding: 20px;
+    margin: 50px;
+     height:;
+    width: auto; 
+} */
