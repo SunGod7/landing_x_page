@@ -1,10 +1,10 @@
 /* * {
-    padding: 0;
-    margin: 0;
+    padding:10px;
+    margin: 10px;
 } */
 
 /* .box-one */
-.flex-container div {
+.flex-container  {
     background-color: rgb(215, 54, 244);
     border: 5px solid rgb(116, 242, 238);
     height: 300px;
@@ -34,9 +34,12 @@
    
 
 .lil-box {
-    border: 5px solid rgb(116, 242, 238);
+    border: 5px solid rgb(42, 49, 246);
     height: 100px;
     width: 150;
+    padding:10px;
+    margin: 30px;
+    /* padding:20px; */
 }
 /* .box-one {
     background-color: rgb(54, 89, 244);
@@ -55,18 +58,20 @@
 .box-thr3 {
     background-color: rgb(240, 62, 234);
 } */
-/* .box-two {
+.box-two {
     background-color: rgb(116, 197, 247);
     padding: 20px;
-    margin: 50px;
-    height: 100px;
-    width: 100px;
+    margin: 10px;
+    border: 100px solid rgb(42, 49, 246);
+    /* height: 100px;
+    width: 100px; */
 }
 
 .box-thr3 {
     background-color: rgb(177, 54, 244);
     padding: 20px;
-    margin: 50px;
-     height:;
-    width: auto; 
-} */
+    margin: 30px;
+    border: 15px solid rgb(42, 49, 246);
+     /* height:; */
+    /* width: auto;  */
+} 
